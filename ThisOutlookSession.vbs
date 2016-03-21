@@ -4,5 +4,5 @@ End Sub
 
 Private Sub Application_Startup()
   
-  Call ActivateTimer(5) 'Set timer to go off every 1 minute
+  Call ActivateTimer(5) 'Set timer to go off every 5 minutes
 End Sub
