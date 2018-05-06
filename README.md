@@ -11,4 +11,4 @@ My use case was to move mails by a timer event that triggers every 5 minutes to 
 
 To do, Document how to sign VBA macros. 
 
-Code is almost self sufficient for some to read and modify.
+Code is almost self sufficient for one to read and modify.
